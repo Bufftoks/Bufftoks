@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BUFFTOKS
+- 👋 Hi, I’m @ADETOKUNBO
 - 👀 I’m interested in ...Data Analysis
 - 🌱 I’m currently learning ...Data Analysis
 - 💞️ I’m looking to collaborate on ... anything that aids my learning
