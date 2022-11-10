@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BUFFTOKS
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...full stack web development
+- 👀 I’m interested in ...Data Analysis
+- 🌱 I’m currently learning ...Data Analysis
 - 💞️ I’m looking to collaborate on ... anything that aids my learning
 - 📫 How to reach me ... alasetokunbo@gmail.com
 
